@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JC-WebD
-- 👀 I’m interested in Open Source and Arduino Projects
-- 🌱 I’m currently learning Java and Wed Development (full-stack) following The Odin Project
-- 💞️ I’m looking to collaborate on Web Development projects
+- 👀 I’m interested in Open Source Projects
+- 🌱 I’m currently learning on the OSSU Curriculum
 - 📫 How to reach me jcramosp68@gmail.com
 
 <!---
